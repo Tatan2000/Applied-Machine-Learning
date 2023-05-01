@@ -1,8 +1,8 @@
 Name                       Stmts   Miss  Cover   Missing
 --------------------------------------------------------
 src/__init__.py                0      0   100%
-src/app.py                    23      1    96%   59
-src/score.py                  31      9    71%   58-80
+src/app.py                    23      2    91%   59
+src/score.py                  31      8    74%   59-80
 test/__init__.py               0      0   100%
 test/integration_test.py      24      0   100%
 --------------------------------------------------------
